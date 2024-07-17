@@ -31,8 +31,8 @@ Here is a preview of the survey form:
 
 ## Connect With Us <a name="contact"></a>
 If you have any questions or suggestions regarding the Student Satisfaction Survey project, feel free to reach out to us:
-- LinkedIn: [Your LinkedIn Profile](insert-link-here)
-- Email: [Your Email Address](mailto:your-email@example.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/priangshu-mukherjee-609142239/)
+- Email: [My Email Address](priangshu18@gmail.com)
 
 We appreciate your interest in contributing to student satisfaction and look forward to your feedback!
 
